@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/devices/static/js/main.2cde196b.chunk.js",
+    "main.js.map": "/devices/static/js/main.2cde196b.chunk.js.map",
+    "runtime-main.js": "/devices/static/js/runtime-main.e6fed26e.js",
+    "runtime-main.js.map": "/devices/static/js/runtime-main.e6fed26e.js.map",
+    "static/js/2.f8e3b30f.chunk.js": "/devices/static/js/2.f8e3b30f.chunk.js",
+    "static/js/2.f8e3b30f.chunk.js.map": "/devices/static/js/2.f8e3b30f.chunk.js.map",
+    "index.html": "/devices/index.html",
+    "precache-manifest.9a92ef66d8458706c61e3b8e6f8e57a7.js": "/devices/precache-manifest.9a92ef66d8458706c61e3b8e6f8e57a7.js",
+    "service-worker.js": "/devices/service-worker.js",
+    "static/js/2.f8e3b30f.chunk.js.LICENSE.txt": "/devices/static/js/2.f8e3b30f.chunk.js.LICENSE.txt",
+    "static/media/card-reader.png": "/devices/static/media/card-reader.edc66d2b.png",
+    "static/media/cash-acceptor.png": "/devices/static/media/cash-acceptor.c4e0860d.png",
+    "static/media/cash-dispenser.png": "/devices/static/media/cash-dispenser.6742d9f0.png",
+    "static/media/pos.png": "/devices/static/media/pos.c09b5e28.png",
+    "static/media/printer.png": "/devices/static/media/printer.978bcd8a.png",
+    "static/media/product-dispenser.png": "/devices/static/media/product-dispenser.e6dd0926.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6fed26e.js",
+    "static/js/2.f8e3b30f.chunk.js",
+    "static/js/main.2cde196b.chunk.js"
+  ]
+}
